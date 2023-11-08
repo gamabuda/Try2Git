@@ -1,0 +1,15 @@
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\obj\Debug\net6.0\Try2UseGit.csproj.AssemblyReference.cache
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\obj\Debug\net6.0\Try2UseGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\obj\Debug\net6.0\Try2UseGit.AssemblyInfoInputs.cache
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\obj\Debug\net6.0\Try2UseGit.AssemblyInfo.cs
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\obj\Debug\net6.0\Try2UseGit.csproj.CoreCompileInputs.cache
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\bin\Debug\net6.0\Try2UseGit.exe
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\bin\Debug\net6.0\Try2UseGit.deps.json
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\bin\Debug\net6.0\Try2UseGit.runtimeconfig.json
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\bin\Debug\net6.0\Try2UseGit.dll
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\bin\Debug\net6.0\Try2UseGit.pdb
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\obj\Debug\net6.0\Try2UseGit.dll
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\obj\Debug\net6.0\refint\Try2UseGit.dll
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\obj\Debug\net6.0\Try2UseGit.pdb
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\obj\Debug\net6.0\Try2UseGit.genruntimeconfig.cache
+C:\Users\Danil.Karpov\source\repos\Try2UseGit\Try2UseGit\obj\Debug\net6.0\ref\Try2UseGit.dll
